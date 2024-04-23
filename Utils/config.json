@@ -1,0 +1,15 @@
+{
+  "keepa_token": "5bv6q09jasanuodolkotktnsngkraa381sq602lhlnplm7uc1g2ae6qi3vrp9dq1",
+  "domain_id": 3,
+  "iteration": 20,
+  "db": {
+    "username": "admin",
+    "password": "Test123!",
+    "host": "amazon-db.cv2fqrledeup.eu-north-1.rds.amazonaws.com",
+    "db_name": "amazon-db"
+  },
+  "qogita": {
+    "email": "isquaren@gmail.com",
+    "password": "8pS6MZvW4!Y7eV5"
+  }
+}
